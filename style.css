@@ -1,1 +1,4 @@
-/* i'll do it later */
+body {
+  display: flex;
+  justify-content: center;
+}
